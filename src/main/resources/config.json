@@ -1,0 +1,12 @@
+{
+  "folderLocation": "C:\\EnergyComponents\\CA-Package\\JIRA\\ECAP-11841\\OneDrive_1_1-16-2020",
+  "workSheets": [
+    "1) Sql Asset Data Load",
+    "2) Sql STREAM WELL ANALYSIS",
+    "3) Sql transactional data"
+  ],
+  "columnIndexToRead": 1,
+  "fileExtension": ".sql",
+  "operation": "copy",
+  "tableName": ""
+}
